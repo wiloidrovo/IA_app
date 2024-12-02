@@ -3,7 +3,7 @@ from openai import OpenAI
 import pandas as pd
 import os
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'INSERT_API_KEY'
 
 client = OpenAI()
 
